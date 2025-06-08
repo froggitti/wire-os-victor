@@ -4,7 +4,15 @@ Welcome to `redOS`. This is the home of the Anki Vector robot's source code. Ori
 
 Check the [wiki](https://github.com/kercre123/victor/wiki) for more information about the leak, what we can do with this, and general Vector info.
 
+<<<<<<< HEAD
 ## Building (Linux)
+=======
+## Changes
+
+- The wiki includes a list of changes I made: [Changes I Made](https://github.com/kercre123/victor/wiki/Changes-I-Made)
+
+## Building (x86_64/arm64 Linux)
+>>>>>>> 262a0c28e28c124da9029031715d24040d30a45a
 
  - Prereqs: Make sure you have `docker` and `git-lfs` installed.
 
